@@ -69,7 +69,7 @@ $sudo sh java-install-mysql.sh #结果 mysqladmin  Ver 8.0.21 for Linux on x86_6
 
 #留意Failed! Error: Your password does not satisfy the current policy requirements
 #Estimated strength of the password: 100 
-#设置密码复杂度: Zdd521!**&
+#设置密码复杂度: 中英文大小写特殊字符
 #mysql -u root -p
 #show databases;
 #用户验证 caching_sha2_password这个 标准 MySQL 8.0 默认采用的方法
